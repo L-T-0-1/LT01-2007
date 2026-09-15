@@ -12,3 +12,7 @@
 
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
