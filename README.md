@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="./scan.svg" alt="GitHub profile scan for novanto08" width="100%" />
-
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
