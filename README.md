@@ -11,7 +11,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<h2>🔍 Contact Me</h2>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div>
 
 
